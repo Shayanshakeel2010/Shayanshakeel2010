@@ -259,7 +259,93 @@ Restaurant website UI using Bootstrap.
 </p>
 
 ---
+---
 
+# 🧠 Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+✅ Master JavaScript
+
+⬜ Learn React.js
+
+⬜ Learn Node.js
+
+⬜ Learn Express.js
+
+⬜ Learn MongoDB
+
+⬜ Build 20+ Projects
+
+⬜ Deploy Full Stack Applications
+
+⬜ Contribute to Open Source
+
+---
+
+# 📚 Currently Working On
+
+💻 Portfolio Website
+
+🌐 Responsive Web Applications
+
+🚀 Full Stack Development
+
+📱 Modern UI Design
+
+---
+
+# ⚡ Fun Facts
+
+- 💻 I love building beautiful websites.
+
+- 🚀 Every project teaches me something new.
+
+- 🌱 I believe learning never stops.
+
+- ⭐ My goal is to become a Professional Full Stack Developer.
+
+---
+
+# 📈 Coding Journey
+
+```text
+2025  ███████░░░░░░░░░░░  Started HTML & CSS
+
+2026  ██████████████░░░░  JavaScript & Bootstrap
+
+2027  ██████████████████  React & Node.js (Goal)
+```
+
+---
+
+# 💡 Quote
+
+> **"Code. Learn. Build. Repeat."**
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0F2027,50:203A43,100:00C6FF&section=footer"/>
+
+</p>
+
+---
 # 💙 Thanks for Visiting
 
 <p align="center">
