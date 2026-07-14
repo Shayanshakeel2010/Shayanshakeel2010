@@ -143,4 +143,139 @@ Front-End Web Developer from Karachi, Pakistan 🇵🇰
 <img src="https://github-profile-trophy.vercel.app/?username=Shayanshakeel2010&theme=algolia&no-frame=true&row=2&column=4"/>
 
 </p>
+---
 
+# ⭐ Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🌐 Portfolio Website
+
+Personal portfolio built with HTML, CSS & Bootstrap.
+
+<p align="center">
+
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/🚀 Live Demo-00C853?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Shayanshakeel2010/Port-Folio">
+<img src="https://img.shields.io/badge/📂 Source Code-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+</td>
+
+<td width="50%">
+
+### 🗼 Eiffel Tower
+
+Responsive HTML & CSS project.
+
+<p align="center">
+
+<a href="https://eiffel-tower-css-and-html.netlify.app/">
+<img src="https://img.shields.io/badge/🚀 Live Demo-00C853?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Shayanshakeel2010">
+<img src="https://img.shields.io/badge/📂 Source Code-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🍔 Zomato Clone
+
+Responsive landing page using HTML & CSS.
+
+<p align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/🚀 Live Demo-00C853?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Shayanshakeel2010/Zomato-App">
+<img src="https://img.shields.io/badge/📂 Source Code-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+</td>
+
+<td width="50%">
+
+### 🌶 Salt & Pepper
+
+Restaurant website UI using Bootstrap.
+
+<p align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/🚀 Live Demo-00C853?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Shayanshakeel2010/Salt-n-pepper-">
+<img src="https://img.shields.io/badge/📂 Source Code-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Shayanshakeel2010/Shayanshakeel2010/output/github-contribution-grid-snake-dark.svg" />
+
+</p>
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Shayanshakeel2010&label=Profile+Views&color=00C2FF&style=for-the-badge"/>
+
+</p>
+
+---
+
+# 💙 Thanks for Visiting
+
+<p align="center">
+
+⭐ If you like my work, consider giving a star to my repositories.
+
+</p>
+
+<p align="center">
+
+Made with ❤️ by <b>Shayan Shakeel</b>
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00C6FF&height=120&section=footer"/>
+
+</p>
