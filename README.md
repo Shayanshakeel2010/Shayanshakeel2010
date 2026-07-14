@@ -40,27 +40,7 @@ Front-End Web Developer from Karachi, Pakistan 🇵🇰
 
 ---
 
-# 🌐 Connect With Me
 
-<p align="center">
-
-<a href="mailto:shayanshakeel2010@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-</a>
-
-<a href="https://github.com/Shayanshakeel2010">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Shayanshakeel2010&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
 
 # 💻 Tech Stack
 
@@ -108,9 +88,9 @@ Front-End Web Developer from Karachi, Pakistan 🇵🇰
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shayanshakeel2010&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shayanshakeel2010&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shayanshakeel2010&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shayanshakeel2010&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -136,14 +116,7 @@ Front-End Web Developer from Karachi, Pakistan 🇵🇰
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shayanshakeel2010&theme=algolia&no-frame=true&row=2&column=4"/>
-
-</p>
----
 
 # ⭐ Featured Projects
 
@@ -259,7 +232,6 @@ Restaurant website UI using Bootstrap.
 </p>
 
 ---
----
 
 # 🧠 Currently Learning
 
@@ -275,25 +247,7 @@ Restaurant website UI using Bootstrap.
 
 </p>
 
----
 
-# 🎯 2026 Goals
-
-✅ Master JavaScript
-
-⬜ Learn React.js
-
-⬜ Learn Node.js
-
-⬜ Learn Express.js
-
-⬜ Learn MongoDB
-
-⬜ Build 20+ Projects
-
-⬜ Deploy Full Stack Applications
-
-⬜ Contribute to Open Source
 
 ---
 
@@ -309,17 +263,6 @@ Restaurant website UI using Bootstrap.
 
 ---
 
-# ⚡ Fun Facts
-
-- 💻 I love building beautiful websites.
-
-- 🚀 Every project teaches me something new.
-
-- 🌱 I believe learning never stops.
-
-- ⭐ My goal is to become a Professional Full Stack Developer.
-
----
 
 # 📈 Coding Journey
 
@@ -339,13 +282,7 @@ Restaurant website UI using Bootstrap.
 
 ---
 
-<p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0F2027,50:203A43,100:00C6FF&section=footer"/>
-
-</p>
-
----
 # 💙 Thanks for Visiting
 
 <p align="center">
