@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋, I'm Shayan Shakeel
 
-<!--
-**Shayanshakeel2010/Shayanshakeel2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Front-End Web Developer
 
-Here are some ideas to get you started:
+🌱 Currently Learning JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Karachi, Pakistan
+
+🚀 Welcome to my GitHub Profile!
+
+## 💻 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,git,github,vscode" />
+</p>
+
+📚 Plans of Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,tailwind,firebase,nextjs" />
+</p>
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Shayanshakeel2010&theme=tokyonight&show_icons=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shayanshakeel2010&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shayanshakeel2010&layout=compact&theme=tokyonight)
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Shayanshakeel2010&theme=onedark)
+
+## 📫 Contact
+
+- 📧 Email: your-email@gmail.com
+- 🌍 Karachi, Pakistan
