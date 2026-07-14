@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Shayan%20Shakeel&fontColor=00E5FF&fontSize=60&fontAlignY=38&desc=Front-End%20Web%20Developer&descAlignY=58&animation=fadeIn"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Shayan Shakeel</h1>
 
 <h3 align="center">Front-End Web Developer | Passionate Learner | HTML • CSS • JavaScript</h3>
