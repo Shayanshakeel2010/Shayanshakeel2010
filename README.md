@@ -112,3 +112,9 @@
 ### ⭐ Thanks for visiting my GitHub Profile ⭐
 
 </p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shayanshakeel2010/Shayanshakeel2010/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
