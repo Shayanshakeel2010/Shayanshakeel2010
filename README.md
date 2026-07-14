@@ -82,17 +82,7 @@ Front-End Web Developer from Karachi, Pakistan 🇵🇰
 
 </p>
 
----
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shayanshakeel2010&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shayanshakeel2010&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
@@ -251,17 +241,7 @@ Restaurant website UI using Bootstrap.
 
 ---
 
-# 📚 Currently Working On
 
-💻 Portfolio Website
-
-🌐 Responsive Web Applications
-
-🚀 Full Stack Development
-
-📱 Modern UI Design
-
----
 
 
 # 📈 Coding Journey
