@@ -101,3 +101,46 @@ Front-End Web Developer from Karachi, Pakistan 🇵🇰
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 
 </p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shayanshakeel2010&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shayanshakeel2010&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Shayanshakeel2010&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shayanshakeel2010&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Shayanshakeel2010&theme=algolia&no-frame=true&row=2&column=4"/>
+
+</p>
+
