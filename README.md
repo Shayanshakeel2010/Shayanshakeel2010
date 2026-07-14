@@ -61,3 +61,43 @@ Front-End Web Developer from Karachi, Pakistan 🇵🇰
 <img src="https://komarev.com/ghpvc/?username=Shayanshakeel2010&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </p>
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,mongodb,git,github,vscode,figma,netlify" />
+
+</p>
+
+---
+
+# 🚀 Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+</p>
+
+---
+
+# 🛠 Development Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+
+</p>
