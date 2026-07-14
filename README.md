@@ -34,5 +34,5 @@
 
 ## 📫 Contact
 
-- 📧 Email: your-email@gmail.com
+- 📧 Email: shayanshakeel2010@gmail.com
 - 🌍 Karachi, Pakistan
