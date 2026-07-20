@@ -87,7 +87,7 @@ Front-End Web Developer from Karachi, Pakistan 🇵🇰
 ---
 
 ## 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=Shayanshakeel2010&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Shayanshakeel2010&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
